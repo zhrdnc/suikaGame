@@ -12,6 +12,8 @@ Seamless Audio: Persistent background music management across scenes using the S
 
 Atmospheric Design: Hand-drawn digital illustrations integrated into the Unity environment.
 
+
+
 🛠️ Technical Stack
 Engine: Unity 2022.3+
 
@@ -20,6 +22,8 @@ Language: C#
 Graphics: Digital Illustration (Krita/Figma)
 
 Platform: Android, PC
+
+
 
 📁 Key Scripts
 fruitcon.cs: Manages fruit physics, horizontal movement via touch/mouse, and the merge logic.
@@ -30,6 +34,8 @@ MusicManager.cs: A persistent audio controller that handles music transitions be
 
 GameOverDetector.cs: Monitors the "danger zone" at the top of the box and triggers the end-game state with a countdown.
 
+
+
 🎮 How to Play
 Move: Slide your finger (or mouse) to position the fruit.
 
@@ -39,12 +45,15 @@ Merge: Align two identical fruits to evolve them into a higher-level fruit.
 
 Score: Keep merging to increase your score, but don't let the fruits stay in the danger zone for too long!
 
+
+
 📸 Screenshots
 ![Main Menu] <img width="945" height="2048" alt="WhatsApp Image 2026-05-08 at 21 17 27" src="https://github.com/user-attachments/assets/b39e643a-cada-4c20-8815-b2ba9cb32c1b" />
 <img width="945" height="2048" alt="WhatsApp Image 2026-05-08 at 21 17 27r" src="https://github.com/user-attachments/assets/a0c1778e-d908-4e73-8f8e-3d182fe08676" />
 
 
 ![Gameplay] <img width="945" height="2048" alt="WhatsApp Image 2026-05-08 at 21 17 27" src="https://github.com/user-attachments/assets/6544c78d-017b-42d0-a166-b61227ab8aba" />
+
 
 
 👩‍💻 About the Developer
