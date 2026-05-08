@@ -57,7 +57,7 @@ Score: Keep merging to increase your score, but don't let the fruits stay in the
 <br>
 
 ## 📸 Screenshots
-[Main Menu] <img width="945" height="2048" alt="WhatsApp Image 2026-05-08 at 21 17 26" src="https://github.com/user-attachments/assets/d51ef4ec-cbc8-46d0-985b-4a6d07f01e5c" />
+[Main Menu] <img width="300" height="700" alt="WhatsApp Image 2026-05-08 at 21 17 26" src="https://github.com/user-attachments/assets/d51ef4ec-cbc8-46d0-985b-4a6d07f01e5c" />
 <img width="300" height="700" alt="WhatsApp Image 2026-05-08 at 21 17 27r" src="https://github.com/user-attachments/assets/a0c1778e-d908-4e73-8f8e-3d182fe08676" />
 <br>
 
