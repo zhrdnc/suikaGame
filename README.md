@@ -1,2 +1,2 @@
-# suikaGame
+# Fruit Pop!
 
